@@ -1,6 +1,6 @@
 # Data Structures And Algorithms
 
-Data structure and algorithms fundamentals implemented in Typescript
+Data structure and algorithms implemented in Typescript
 
 ## Table Of Contents
 

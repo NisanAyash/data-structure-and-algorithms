@@ -1,3 +1,5 @@
+import swap from './utils/swap'
+
 // O(n^2)
 
 function selectionSort(arr: number[]) {
@@ -18,13 +20,5 @@ function selectionSort(arr: number[]) {
     return arr;
 }
 
-function swap(arr: number[], index1: number, index2: number) {
-    const tmp = arr[index1];
-
-    arr[index1] = arr[index2];
-    arr[index2] = tmp;
-
-    return arr;
-}
 
 console.log(selectionSort([2, 5, 1, 3, 7]));
