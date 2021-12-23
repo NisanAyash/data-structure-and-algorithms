@@ -16,4 +16,9 @@ $ npx ts-node src/data-structures/Stack.ts
 
 ## Algorithms
 
+- [x] Linear Search
+- [x] Binary Search
+- [x] Bubble Sort
+- [x] Selection Sort
+- [x] Insertion Sort
 - [x] BFS
